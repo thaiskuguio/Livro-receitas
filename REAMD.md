@@ -1,5 +1,6 @@
-# livro de receitas
+# livro de receitas👩🏽‍🍳
 
 Olá! Bem vindo ao meu livro de receitas:
 
-- strogonoff de frango
+- strogonoff de frango 🐔
+- Pavê de chocolate simples🍫
